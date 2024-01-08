@@ -12,6 +12,7 @@ Thanks to the following repos for code used:
     journal={arXiv preprint arXiv:2202.07123},
     year={2022}
 }
+
 @article{Pytorch_Pointnet_Pointnet2,
       Author = {Xu Yan},
       Title = {Pointnet/Pointnet++ Pytorch},
